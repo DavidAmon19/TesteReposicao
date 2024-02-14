@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;    
+    list-style: none;
+}
+
+.conteudo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E5E6EA;
+}
+
+
+.conteudo img{
+    height: 200px;
+    width: 200px;
+}
+
+.contentMenu{
+    display: flex;
+    gap: 1rem;
+
+}
